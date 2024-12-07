@@ -1,0 +1,106 @@
+{
+  "products": {
+    
+          "1": {
+                "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "sellerName": "Backpack World",
+                "availability": "In Stock",
+                "manufacturingDate": "2023-05-12",
+                "warranty": "2 years"
+                },
+              
+          "2": {
+                "title": "Mens Casual Premium Slim Fit T-Shirts ",
+                "sellerName": "Fashion Hub",
+                "availability": "Limited Stock",
+                "manufacturingDate": "2024-02-15",
+                "warranty": "6 months"
+                },
+              
+          "3":  {
+                "title": "Mens Cotton Jacket",
+                "sellerName": "Outdoor Style",
+                "availability": "In Stock",
+                "manufacturingDate": "2023-08-22",
+                "warranty": "1 year"
+              },
+          "4":  {
+                "title": "Mens Casual Slim Fit",
+                "sellerName": "Trendy Wear",
+                "availability": "Out of Stock",
+                "manufacturingDate": "2023-01-10",
+                "warranty": "6 months"
+              },
+          "5":  {
+                "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+                "sellerName": "Luxury Accessories",
+                "availability": "In Stock",
+                "manufacturingDate": "2022-12-01",
+                "warranty": "Lifetime"
+              },
+          "6":  {
+                "title": "Solid Gold Petite Micropave ",
+                "sellerName": "Jewelry Express",
+                "availability": "In Stock",
+                "manufacturingDate": "2024-03-05",
+                "warranty": "2 years"
+              },
+          "7":  {
+                "title": "White Gold Plated Princess",
+                "sellerName": "Elegant Gems",
+                "availability": "In Stock",
+                "manufacturingDate": "2024-04-18",
+                "warranty": "1 year"
+              },
+          "8":  {
+                "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+                "sellerName": "Urban Jewelers",
+                "availability": "Out of Stock",
+                "manufacturingDate": "2023-07-09",
+                "warranty": "6 months"
+              },
+          "9":  {
+                "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+                "sellerName": "Tech Gadgets",
+                "availability": "In Stock",
+                "manufacturingDate": "2023-06-30",
+                "warranty": "3 years"
+              },
+          "10":  {
+                "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "sellerName": "Digital Store",
+                "availability": "In Stock",
+                "manufacturingDate": "2023-09-15",
+                "warranty": "3 years"
+              },
+          "11":  {
+                "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+                "sellerName": "Storage Solutions",
+                "availability": "Limited Stock",
+                "manufacturingDate": "2024-01-11",
+                "warranty": "5 years"
+              },
+          "12":  {
+              "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+              "sellerName": "Gaming World",
+              "availability": "In Stock",
+              "manufacturingDate": "2023-11-25",
+              "warranty": "2 years"
+            },
+          "13":  {
+              "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+              "sellerName": "Tech Mart",
+              "availability": "Limited Stock",
+              "manufacturingDate": "2023-04-10",
+              "warranty": "1 year"
+            },
+          "14":  {
+              "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
+              "sellerName": "Vision Electronics",
+              "availability": "Out of Stock",
+              "manufacturingDate": "2022-09-05",
+              "warranty": "3 years"
+            }
+  }
+}
+  
